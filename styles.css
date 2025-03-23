@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.coming-soon {
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 3em;
+    color: #333;
+}
+
+p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.signup-form input {
+    padding: 10px;
+    font-size: 1em;
+    margin-right: 10px;
+}
+
+.signup-form button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.signup-form button:hover {
+    background-color: #555;
+}
